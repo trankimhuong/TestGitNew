@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\DemoLINQToEF.exe.config
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\DemoLINQToEF.exe
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\DemoLINQToEF.pdb
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.Form1.resources
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.exe
+C:\Users\Administrator\Desktop\PTPM_HDT_IT18\DemoLINQToEF\DemoLINQToEF\obj\Debug\DemoLINQToEF.pdb
